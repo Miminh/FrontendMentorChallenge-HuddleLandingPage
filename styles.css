@@ -223,7 +223,7 @@ button {
     border-radius: 100px;
   }
   
-  .social-logo-wrapper:hover > .social-logo{
+  .social-logo-wrapper:hover{
     cursor: pointer;
     border-color: hsl(300, 69%, 71%);
   }
